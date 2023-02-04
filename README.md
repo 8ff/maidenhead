@@ -1,3 +1,4 @@
+![logo](media/logo.svg)
 # maidenhead
 This library provides an easy and convenient way to perform conversions between Maidenhead Grid Squares and latitudes and longitudes.
 
@@ -27,5 +28,4 @@ func main() {
 	}
 	fmt.Printf("Coordinates: %f, %f\n", lat, long)
 }
-
 ```
