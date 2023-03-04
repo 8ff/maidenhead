@@ -3,6 +3,9 @@
 This library provides an easy and convenient way to perform conversions between Maidenhead Grid Squares and latitudes and longitudes.
 
 # Example
+Ready to use example can be found in cmd/main.go
+
+Alternatively, you can use the following code snippet:
 ```go
 package main
 
